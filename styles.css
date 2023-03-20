@@ -6,7 +6,8 @@ h1
 {
 	text-align: center;
 }
-a{
-	background-color: white;
-	
+image{
+	position: relative;
+	top: -20px;
 }
+
