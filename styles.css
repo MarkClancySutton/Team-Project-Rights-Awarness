@@ -1,6 +1,6 @@
 body {
   background-color: silver;
-  text-align: center;
+	
   
 }
 h1
@@ -12,4 +12,21 @@ image{
 	position: relative;
 	top: -20px;
 }
+div.a{
+	text-align: center;
+}
+
+div.b{
+	position: relative;
+	text-align: right;
+}
+
+img.a{
+	float: right;
+}
+
+h1.a {
+	font-size: 100px;
+}
+
 
